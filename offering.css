@@ -1,0 +1,210 @@
+body{
+	font-family:verdana;
+	font-size:30px;
+	margin:0px;
+	padding:0px;
+}
+.intro h2{
+	text-align: center;
+	margin-left:20px;
+	margin-top:50px;
+	margin-bottom:5px;
+}
+.intro h6{
+	text-align: center;
+	margin-left:20px;
+	margin-top:0px;
+	margin-bottom:50px;
+}
+.mainhallpagoda-photo img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+	position:relative;
+}
+.radio img{
+	top:-50px;
+	left:20px;
+	width:75px;
+	height:75px;
+}
+.plum-photo img{
+	top:-500px;
+	left:400px;
+	width:75px;
+	height:100px;
+	position:absolute;
+	cursor:pointer;
+}
+.kiwi3 img{
+	top:-500px;
+	left:370px;
+	width:75px;
+	height:100px;
+	position:absolute;
+	cursor:pointer;
+}
+.plum2 img{
+	top:-475px;
+	left:450px;
+	width:55px;
+	height:70px;
+	position:absolute;
+	cursor:pointer;
+}
+.plum3 img{
+	top:-500px;
+	left:475px;
+	width:55px;
+	height:70px;
+	position:absolute;
+	cursor:pointer;
+}
+.plum4 img{
+	top:-500px;
+	right:475px;
+	width:55px;
+	height:70px;
+	position:absolute;
+	cursor:pointer;
+}
+.plum5 img{
+	top:-470px;
+	right:475px;
+	width:55px;
+	height:70px;
+	position:absolute;
+	cursor:pointer;
+}
+.grapefruit1 img{
+	top:-550px;
+	left:420px;
+	width:100px;
+	height:100px;
+	position:absolute;
+	cursor:pointer;
+}
+.orange img{
+	top:-475px;
+	left:500px;
+	width:75px;
+	height:75px;
+	position:absolute;
+	cursor:pointer;
+}
+.orangesecond img{
+	top:-500px;
+	left:550px;
+	width:100px;
+	height:100px;
+	position:absolute;
+	cursor:pointer;
+}
+.orangethird img{
+	top:-520px;
+	left:500px;
+	width:50px;
+	height:50px;
+	position:absolute;
+	cursor:pointer;
+}
+.orangefourth img{
+	top:-520px;
+	right:500px;
+	width:100px;
+	height:100px;
+	position:absolute;
+	cursor:pointer;
+}
+.kiwi img{
+	top:-450px;
+	right:500px;
+	width:75px;
+	height:50px;
+	position:absolute;
+	cursor:pointer;
+}
+.apple1 img{
+	top:-480px;
+	right:550px;
+	width:75px;
+	height:75px;
+	position:absolute;
+	cursor:pointer;
+}
+.apple2 img{
+	top:-520px;
+	right:570px;
+	width:75px;
+	height:75px;
+	position:absolute;
+	cursor:pointer;
+}
+.kiwi2 img{
+	top:-450px;
+	right:600px;
+	width:75px;
+	height:50px;
+	position:absolute;
+	cursor:pointer;
+}
+.grapefruit img{
+	top:-500px;
+	right:400px;
+	width:100px;
+	height:100px;
+	position:absolute;
+	cursor:pointer;
+}
+.incensebowl img{
+	display:block;
+	top:680px;
+	right:600px;
+	width:250px;
+	height:150px;
+	position:absolute;
+	cursor:pointer;
+}
+.incensestick img{
+	top:-520px;
+	left:500px;
+	width:5px;
+	height:100px;
+	line-height:70px;
+	position:absolute;
+	cursor:pointer;
+}
+.lighter img{
+	top:-520px;
+	right:500px;
+	width:25px;
+	height:100px;
+	line-height:70px;
+	position:absolute;
+	cursor:pointer;
+}
+#myDIV {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+  	padding:5px 0;
+  	float:center;
+  	text-align:left;
+  	background:lightpink;
+  	margin-top:0px;
+}
+#myDIV p{
+	margin:5px;
+	font-size:22px;
+}
+.offerbutton img{
+	float:right;
+	top:970px;
+	right:575px;
+	width:275px;
+	height:100px;
+	line-height:70px;
+	position:absolute;
+}
